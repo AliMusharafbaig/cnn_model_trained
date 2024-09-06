@@ -80,5 +80,4 @@ if __name__ == '__main__':
     print(f" * ngrok tunnel URL: {public_url}")
     app.run()
 
-from google.colab import files
-files.download('app.py')
+
