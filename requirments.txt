@@ -1,5 +1,7 @@
-Flask==2.0.3
-tensorflow==2.6.0
-gdown==4.2.0
-h5py
-gunicorn
+Flask==2.0.2
+gunicorn==20.1.0
+requests==2.26.0
+numpy==1.21.2
+tensorflow==2.7.0
+h5py==3.1.0
+Werkzeug==2.0.2
